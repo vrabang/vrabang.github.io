@@ -13,6 +13,7 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/wslTrailer.PNG">
 <div class="ui small rounded images">
   <img class="ui image" src="../images/wslTrailer.PNG">
   <img class="ui image" src="../images/wslTop.png">
