@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/vex.png
+title: Vex Robotics
+permalink: projects/vex
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2014-04-30
 labels:
   - Javascript
   - Meteor
