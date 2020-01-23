@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "web design",
       "keywords": [
       ]
     },
@@ -63,20 +63,19 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-24",
       "endDate": "Present",
       "gpa": "",
       "courses": [
