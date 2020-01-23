@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: WSL Trailer
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-05-01
 labels:
-  - Lisp
-  - GitHub
+  - AutoCAD
+  - Design
+  - 3D
 summary: A text adventure game I developed for ICS 313.
 ---
 
