@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/surf.PNG
+title: Hawaiian Surfer
+permalink: projects/Project1
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-10-25
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Gaming Design
+  - 
+summary: My second individual Project for ICS 111.
 ---
 
 <div class="ui small rounded images">
