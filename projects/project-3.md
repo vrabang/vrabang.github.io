@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/wsl.jpg
 title: WSL Trailer
-permalink: projects/cotton
+permalink: projects/wsl
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
@@ -14,6 +14,10 @@ summary: A text adventure game I developed for ICS 313.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Wsl trailer.pdf">
+  <img class="ui image" src="../images/WSL trailer org ortho top #1.jpg">
+</div>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
