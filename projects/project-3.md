@@ -13,7 +13,7 @@ labels:
 summary: Designed a a trailer for the World Surf League to replace their old trailer.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/wslTrailer.PNG">
+<img class="ui medium left floated rounded image" src="../images/wslTrailer.PNG">
 <img class="ui medium right floated rounded image" src="../images/wslTop.png">
 
 
