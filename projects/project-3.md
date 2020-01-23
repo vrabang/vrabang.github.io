@@ -16,6 +16,10 @@ summary: Designed a a trailer for the World Surf League to replace their old tra
 <img class="ui medium right floated rounded image" src="../images/wslTrailer.PNG">
 <img class="ui medium right floated rounded image" src="../images/wslTop.png">
 
+
+
+
+
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
 To give you a flavor of the game, here is an excerpt from one run:
