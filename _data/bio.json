@@ -17,23 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "vrabang",
         "url": "http://github.com/vrabang"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "vrabang",
         "url": "http://linkedin.com/in/vrabang"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "mail",
+        "username": "vrabang",
+        "url": "vrabang@hawaii.edu"
       }
     ]
   },
