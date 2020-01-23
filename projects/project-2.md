@@ -7,14 +7,12 @@ permalink: projects/vex
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-30
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Design
+  - Robotics
+summary: Competing in the Vex Robotics World Championships at Anaheim, California.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/robotics.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
