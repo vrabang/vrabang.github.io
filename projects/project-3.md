@@ -10,7 +10,7 @@ labels:
   - AutoCAD
   - Design
   - 3D
-summary: A text adventure game I developed for ICS 313.
+summary: Designed a a trailer for the World Surf League to replace their old trailer.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/wslTrailer.PNG">
