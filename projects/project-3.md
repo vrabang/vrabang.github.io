@@ -16,52 +16,8 @@ summary: Designed a a trailer for the World Surf League to replace their old tra
 <img class="ui medium left floated rounded image" src="../images/wslTrailer.PNG">
 <img class="ui medium right floated rounded image" src="../images/wslTop.png">
 
+During my senior year in one of my engineering class, we were required to design a functional trailer for the World Surf League. The project was planned to last two semesters with the seniors designing the trailer for the group of juniors using their ideas and the juniors were the ones to complete the trailer during the next school year. There was about 10 groups working on a trailer design, the seniors drawing and making the trailer were chosen, and I was one of the lucky person and I was also paired up with another senior, Vincent, to make the design. 
 
+In this project communication with our juniors was important because they are our "clients" and we were designing the trailer to how they imagined the look. Vincent and I used AutoCad to draw the plans, the picture on the top right, we divided the work because there was also details we have to inlude. We had to draw the outside structure and inside structure with all the interior. We also had deadlines, but before turning it in we must pass our work to our teacher first to check for errors, else we must correct that error.
 
-
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+To learn more about the project read this [article](http://www.hawaiipublicschools.org/VisionForSuccess/SuccessStories/Schools/Pages/farringtonWSLpartnership.aspx).
