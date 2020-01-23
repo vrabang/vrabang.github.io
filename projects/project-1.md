@@ -8,8 +8,7 @@ permalink: projects/Project1
 date: 2018-10-25
 labels:
   - Java
-  - Gaming Design
-  - 
+  - EZ Graphics
 summary: My second individual Project for ICS 111.
 ---
 
