@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/surf.PNG
+image: images/surfp.jpg
 title: Hawaiian Surfer
 permalink: projects/Project1
 # All dates must be YYYY-MM-DD format!
