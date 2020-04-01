@@ -14,7 +14,7 @@ Authors: Sophia Elize Cruz and Vince Khyla Rabang
 
 *The solution:* A social hub for UH Manoa students where they can meet and interact with people with similar interests in movies/TV shows and note down shows/movies they have watched for others to see. This can also be used as a way for clubs and organizations to gauge students’ tastes in movies/entertainment so that it can be used for their own events, such as movie nights or mixers.
 
-#Approach
+# Approach
 There are two roles, being an admin role and a user role. Students must register with their UH email, and go through the process of entering their name, major, year, a bio, and three genres that they like. After registering/logging in, users are able to look at other users profiles and lists of movies/TV shows that they like or are currently watching. Users can also comment on the person’s profile page to recommend movies or comment on their movie/TV list. Admins are allowed to ban users who break site rules or harm other users, (i.e. harassing, threatening, use of racial, sexual slurs), as well as to announce movie-related events happening on campus. 
 
 # Mockup page ideas
