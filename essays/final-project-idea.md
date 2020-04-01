@@ -8,6 +8,7 @@ labels:
   - Meteor
 ---
 Authors: Sophia Elize Cruz and Vince Khyla Rabang
+## Project Idea: Manoaflix
 
 # Overview
 *The problem:* Almost everyone uses movies or TV shows to wind down when they are not hitting the books. Most students have a hard time finding friends on campus with similar tastes in entertainment, with only a couple of icebreakers that they may or may not have in their classes to get to know their peers. Maybe they need to rant/debate with someone who has watched the new episode of whatever they are currently binging. 
