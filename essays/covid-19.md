@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How COVID-19 affected my life
+title: My Life so Far
 date: 2020-04-03
 labels:
   - COVID-19
