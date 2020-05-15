@@ -53,6 +53,9 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML/CSS",
+        "Semantic UI",
+        "React",
       ]
     },
     {
@@ -61,7 +64,9 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
-        "g++"
+        "Windows",
+        "Meteor",
+        "MongoDB,
       ]
     }
   ],
@@ -83,7 +88,7 @@
       "position": "Sales Associate",
       "website": "",
       "startDate": "2018-09-10",
-      "endDate": "Present",
+      "endDate": "2020-04-17",
       "summary": "",
       "highlights": [
         "Assist customers in what they need in the fitting room, sales floor and at the cash register.",
