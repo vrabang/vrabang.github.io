@@ -62,11 +62,11 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
         "Git/GitHub",
         "Windows",
         "Meteor",
         "MongoDB",
+        "Windows",
       ]
     }
   ],
