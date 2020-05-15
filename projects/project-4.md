@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/landing-page.png
 title: WSL Trailer
 permalink: projects/wsl
 # All dates must be YYYY-MM-DD format!
