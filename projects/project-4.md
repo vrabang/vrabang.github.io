@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/wsl1.jpg
+image: images/landing.png
 title: WSL Trailer
 permalink: projects/wsl
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-01
+date: 2020-05-15
 labels:
-  - AutoCAD
-  - Design
-  - 3D
-summary: Designed a a trailer for the World Surf League to replace their old trailer.
+  - Group Project
+  - Meteor
+  - Javascript
+  - Semantic UI react
+summary: Final group project for ICS 314. A web application designed for UH students to be able to access all the clubs and catch up on any upcoming events that the clubs have prepared.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/wslTrailer.PNG">
