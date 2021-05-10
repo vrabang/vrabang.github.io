@@ -2,9 +2,9 @@
 layout: essay
 type: essay
 title: My Life so Far
-date: 2020-04-03
+date: 2021-05-11
 labels:
-  - COVID-19
+  - Software Engineering
 ---
 
 <img class="ui medium right floated image" src="../images/safe.jpg">
