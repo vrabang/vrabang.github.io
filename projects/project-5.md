@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ghg.png
-title: GHG Tracker
+title: GHG
 permalink: projects/project5
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-11
