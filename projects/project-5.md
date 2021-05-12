@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ghg.png
-title: Club Lounge
+title: GHG Tracker
 permalink: projects/project5
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-11
@@ -10,7 +10,7 @@ labels:
   - Group Project
   - Meteor
   - Javascript
-  - Semantic UI react
+  -Agile Project Management
 summary: A web application designed for Hawaiian Electectric Industries to help track the amount of greenhouse gas emissions that people in Hawaii saved or used during their daily lives.
 ---
 
